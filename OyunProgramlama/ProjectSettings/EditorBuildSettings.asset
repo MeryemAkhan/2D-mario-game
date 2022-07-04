@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GirisMenusu 1.unity
+    guid: f78fe245722bfff49a976a8184a96bf3
+  - enabled: 1
+    path: Assets/Scenes/TanitimSahnesi.unity
+    guid: 89cdcba55982864468bc3ec7752628d5
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 5ce97b7b057caf845aa79ae481c23496
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 26b2dff8a904f9c40aee147d5c3de19e
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 9f4e3fbe5e44ac7439fcc4eff5ef34eb
+  - enabled: 1
+    path: Assets/Scenes/Kaybetme.unity
+    guid: fd932dad7fb549a4a921146ac40cd02a
+  - enabled: 1
+    path: Assets/Scenes/Kazanma.unity
+    guid: f012fc74bfcde764992cf94da4a44f65
+  m_configObjects: {}

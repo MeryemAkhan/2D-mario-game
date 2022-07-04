@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - enemy1
+  - Coin
+  - Bayrak
+  - alev
+  - alev1
+  - tas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - arkaPlan
+  - platform
+  - karakter
+  - "d\xFC\u015Fman"
+  - pltfrm
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arkaplan
+    uniqueID: 1683385509
+    locked: 0
+  - name: platform
+    uniqueID: 1051798743
+    locked: 0
+  - name: "d\xFC\u015Fman"
+    uniqueID: 2225112233
+    locked: 0
+  - name: "alt\u0131n"
+    uniqueID: 2367030761
+    locked: 0
+  - name: bayrak
+    uniqueID: 1778102745
+    locked: 0
+  - name: mario
+    uniqueID: 2783801991
+    locked: 0
+  - name: pltfrm
+    uniqueID: 653983895
+    locked: 0
