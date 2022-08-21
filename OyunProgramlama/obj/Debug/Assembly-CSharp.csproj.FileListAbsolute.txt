@@ -1,2 +1,0 @@
-C:\Users\ÖZTÜRK BİLİŞİM\OyunProgramlama\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\ÖZTÜRK BİLİŞİM\OyunProgramlama\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
